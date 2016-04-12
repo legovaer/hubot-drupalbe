@@ -19,7 +19,8 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2",
     "jsdom": "^8.3.1",
-    "request": "^2.70.0"
+    "request": "^2.70.0",
+    "underscore": "^1.8.3"
   },
   "engines": {
     "node": "0.10.x"
