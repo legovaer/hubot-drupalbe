@@ -1,1 +1,1 @@
-["karma.coffee", "drupalorg.coffee"]
+["karma.coffee", "drupalorg.coffee", "http-info.coffee"]
