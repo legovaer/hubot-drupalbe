@@ -11,5 +11,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-karma-classic",
-  "hubot-drupal"
+  "hubot-drupal",
+  "hubot-auth"
 ]
